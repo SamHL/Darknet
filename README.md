@@ -1,7 +1,7 @@
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
 # Darknet++ #
-This is a C++/Windows implementation of the Darknet framework developed by Joseph Redmond.
+This is a C++/Windows implementation of the original Darknet framework developed by Joseph Redmond.
 
 For more information see the [Darknet project website](http://pjreddie.com/darknet).
 
